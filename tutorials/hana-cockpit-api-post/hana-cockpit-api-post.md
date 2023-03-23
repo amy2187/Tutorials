@@ -21,7 +21,7 @@ time: 25
 ## Intro
 SAP HANA cockpit provides modifying (POST) REST API endpoints. Unlike the GET endpoints, the POST endpoints create, delete, or change objects in the cockpit.
 
-There are fourteen cockpit POST API endpoints:
+There are nineteen cockpit POST API endpoints:
 
 1. *`SystemRegister`*: registers an SAP HANA resource in the cockpit
 2. *`SystemUnregister`*: `unregisters` an SAP HANA resource that's already registered
